@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Translucent", "Translucent.vcproj", "{23F68313-B956-41A7-A3A7-196C82F26E0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23F68313-B956-41A7-A3A7-196C82F26E0C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{23F68313-B956-41A7-A3A7-196C82F26E0C}.Debug|Win32.Build.0 = Debug|Win32
+		{23F68313-B956-41A7-A3A7-196C82F26E0C}.Release|Win32.ActiveCfg = Release|Win32
+		{23F68313-B956-41A7-A3A7-196C82F26E0C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

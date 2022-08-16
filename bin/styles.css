@@ -1,0 +1,40 @@
+			body 
+			{
+				font: 10pt 'courier new';
+				
+				
+			}
+			div.line_label
+			{
+				border-bottom: 1px solid;
+				border-right: 1px solid;
+				height: 20px; 
+				border-color: #8899AA;
+				clear: left;
+			} 
+			div.line_table
+			{
+				border: 1px solid;
+				border-color: #8899AA;
+			} 
+			div.left_label 
+			{
+				font: bold;
+				color: darkgreen;
+				width: 120px;
+				text-align: left;
+				border-right: 1px solid;
+				border-color: #8899AA;
+				padding: 5px 0px 0px 5px;
+				margin: 0px 0px 0px 0px ;
+				height: 22px; 
+				
+				float: left;
+			}	
+			div.right_label 
+			{
+				color: black;
+				text-align: left;
+				padding: 5px 0px 0px 0px;
+				margin: 0px 0px 0px 0px ;
+			}
